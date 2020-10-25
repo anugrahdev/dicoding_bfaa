@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Github Search</string>
+    <string name="detail_user">Detail User</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="error_occurred">Terjadi Kesalahan</string>
+    <string name="bahasa">Bahasa</string>
+    <string name="profile">Profile</string>
+    <string name="enter_username">Masukkan Username</string>
+    <string name="search_for_get_the_result">Cari untuk mendapatkan hasil</string>
+</resources>

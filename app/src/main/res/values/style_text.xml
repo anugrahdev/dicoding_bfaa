@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="subtitle1" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">18sp</item>
+        <item name="fontFamily">@font/product_sans</item>
+    </style>
+
+    <style name="subtitle2" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">14sp</item>
+        <item name="fontFamily">@font/product_sans</item>
+    </style>
+
+
+
+
+</resources>
